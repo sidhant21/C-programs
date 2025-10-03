@@ -11,6 +11,6 @@ int main(){
                 
                 a=a*i;
         }
-        printf("Sum is %d ",a);
+        printf("Product is %d ",a);
         return 0;
 }
